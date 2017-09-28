@@ -1,0 +1,11 @@
+#rotate{
+	transform: rotate(35deg);
+}
+
+#skew{
+	transform: skew(22deg);
+}
+
+#all{
+	transform: rotate(35deg) skew(22deg);
+}
